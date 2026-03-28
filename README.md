@@ -1,19 +1,51 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=5&color=%2300d4ff&color2=%23ff6b9d&color3=%2310b981&center=true&vCenter=true&width=600&lines=AI+Learner;React+%2B+Gemini+AI;Voice+AI+Developer" alt="AI Learner" style="height: 120px;" />
+
+</div>
+
 # 💫 About Me:
-Here are a few key highlights from my recent experiences and goals:<br><br>💡 What I’m Learning<br>-🧠 Strengthening my foundation in programming & problem-solving<br>-☁️ Exploring Google Cloud Platform (GCP) through Google Arcade Skill Boost<br>-📊 Getting hands-on with analytics, data insights, and documentation<br>-🔧 Building discipline towards consistently improving my technical skills<br><br>🎯 My Career Goals<br>-🚀 Become a skilled engineer who builds impactful real-world tech solutions<br>-🤝 Collaborate with diverse teams and work on innovative projects<br>-📚 Keep learning modern tools, cloud platforms, and industry-relevant technologies<br><br>🔍 Technical Interests<br>-💻 Software Development<br>-☁️ Cloud Computing<br>-📈 Data & Analytics<br>-🔐 Cybersecurity (exploring this area more deeply)
+Here are a few key highlights from my recent experiences and goals:<br><br>
+
+💡 What I'm Learning<br>
+-🤖 Mastering AI development with React 19 + Gemini AI<br>
+-🎙️ Building Voice AI Assistants for hands-free web apps<br>
+-⚛️ Advanced React patterns for production e-commerce<br>
+-🚀 EdgeOne & Vite deployment for global-scale apps<br><br>
+
+🎯 My Career Goals<br>
+-🚀 Build impactful AI-powered web solutions<br>
+-🤝 Collaborate on hackathons & innovative AI projects<br>
+-📚 Master modern AI tools & full-stack development<br>
+-💼 Land AI development internships<br><br>
+
+🔍 Technical Interests<br>
+-💻 Full-Stack Development (React 19, TypeScript)<br>
+-🤖 AI/ML (Gemini AI, Voice Processing)<br>
+-🚀 Cloud Deployment (EdgeOne, Vercel, Netlify)<br>
+-🎨 Modern UI/UX (3D Tilt, Glassmorphism)<br>
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_saatwik_s_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saatwik-sinha-32b162388) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:uniqueunboxing03@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saatwik-sinha-32b162388) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:uniqueunboxing03@gmail.com) <a href="https://occupational-bronze-cza07rqvid.edgeone.app/" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> </p>
+
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=saatwik17&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=saatwik17&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saatwik17&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="netlify" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>&nbsp;
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=saatwik17&icon=0&color=0)](https://visitcount.itsvg.in)
+# 📊 GitHub Stats:
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saatwik17&theme=radical" alt="GitHub Streak" />
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
