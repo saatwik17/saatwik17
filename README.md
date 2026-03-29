@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=5&color=%2300d4ff&color2=%23ff6b9d&color3=%2310b981&center=true&vCenter=true&width=600&lines=AI+Learner;React+%2B+Gemini+AI;Voice+AI+Developer" alt="AI Learner" style="height: 120px;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=0&color=%2300d4ff&color2=%23ff6b9d&color3=%2310b981&center=true&vCenter=true&width=600&lines=AI+Learner;React+%2B+Gemini+AI;Voice+AI+Developer" alt="AI Learner" style="height: 120px;" />
 
 </div>
 
